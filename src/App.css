@@ -71,7 +71,7 @@ input[type='text'] {
   height: 40px;
   font-family: 'Karla';
   font-weight: 700;
-  font-size: 16px;
+  font-size: 1.8rem;
   line-height: 19px;
   text-align: center;
   letter-spacing: -0.1em;
@@ -95,7 +95,7 @@ input[type='text'] {
   text-align: center;
   left: 50%;
   transform: translateX(-50%);
-  margin: 15px 0;
+  margin: 20px 0;
   padding: 0 5px;
   font-family: impact, sans-serif;
   font-size: 3rem;
@@ -142,9 +142,15 @@ input[type='text'] {
 
   .meme {
     width: auto;
-    margin: 0 20px;
+    margin: 0 10px;
   }
+
   .meme-img {
     width: 100%;
+  }
+
+  input[type='text'] {
+    width: 175px;
+    font-size: 1.6rem;
   }
 }
