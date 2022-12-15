@@ -1,0 +1,26 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  height: 100vh;
+  font-family: Inter, sans-serif;
+}
+
+button,
+input,
+textarea {
+  all: unset;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
