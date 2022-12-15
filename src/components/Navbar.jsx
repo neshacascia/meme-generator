@@ -6,7 +6,6 @@ export default function Navbar() {
     <nav>
       <img className="nav-logo" src={navLogo} />
       <h2>Meme Generator</h2>
-      <h4>React Course - Project 3</h4>
     </nav>
   );
 }
