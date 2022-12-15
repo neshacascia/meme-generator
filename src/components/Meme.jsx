@@ -61,7 +61,7 @@ export default function Meme() {
         <input
           className="meme-btn"
           type="button"
-          value="Get a new meme image 🖼"
+          value="Get a new meme image"
           onClick={getMemeImage}
         />
       </div>
